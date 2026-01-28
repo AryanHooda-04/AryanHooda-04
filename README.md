@@ -1,7 +1,6 @@
 
-# Hello! 👋
-
-Hi, I’m **Aryan** — an aspiring **Data Analyst & Gen AI Engineer** with a strong interest in turning data into meaningful insights and building a solid analytical foundation through hands‑on projects.
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi there, I’m **Aryan** 
+An aspiring **Data Analyst & Gen AI Engineer** with a strong interest in turning data into meaningful insights and building a solid analytical foundation through hands‑on projects.
 
 ---
 
@@ -9,9 +8,8 @@ Hi, I’m **Aryan** — an aspiring **Data Analyst & Gen AI Engineer** with a st
 
 Let’s connect:
 
-- 💼 **LinkedIn:** https://www.linkedin.com/in/aryan04
-- 💻 **GitHub:** https://github.com/AryanHooda-04  
-
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryan04)
+- [![GitHub](https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AryanHooda-04)
 ---
 
 ## 📊 Current Focus
@@ -40,6 +38,14 @@ Alongside this, I actively maintain a **Frontend Projects Lab**, where I build a
 More analytics‑focused work will be added soon.
 
 ---
+
+## 📈 Profile Stats
+ 
+<!-- GitHub Stats Card -->
+<img src="https://github-readme-stats.vercel.app/api?username=aryanhooda-04&show_icons=true&theme=dark" alt="GitHub Stats" />
+ 
+<!-- Top Languages Card -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanhooda-04&layout=compact&theme=dark" alt="Top Languages" />
 
 ⭐ Thanks for visiting my profile!  
 Feel free to explore my repositories or connect if you’d like to collaborate or exchange ideas.
