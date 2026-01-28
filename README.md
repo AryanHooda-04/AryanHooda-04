@@ -1,6 +1,6 @@
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi there, I’m **Aryan** 
-An aspiring **Data Analyst & Gen AI Engineer** with a strong interest in turning data into meaningful insights and building a solid analytical foundation through hands‑on projects.
+An aspiring **Data Analyst & Generative AI Engineer** with a strong interest in turning data into meaningful insights and building a solid analytical foundation through hands‑on projects.
 
 ---
 
@@ -22,6 +22,17 @@ Alongside this, I actively maintain a **Frontend Projects Lab**, where I build a
 
 ---
 
+## 🧰 Tech Stack
+
+**Languages:** SQL, Python, JavaScript  
+**Analytics:** Data Cleaning, EDA, KPI Analysis  
+**Libraries:** Pandas, Numpy, Matplotlib, Seaborn  
+**Frontend:** HTML, CSS, JavaScript  
+**Tools:** Git, GitHub  
+**Learning Focus:** Data Analytics, Generative AI
+
+---
+
 ## 🚀 What’s Next
 
 - Publicly releasing structured **data analytics projects** with real‑world use cases  
@@ -39,6 +50,11 @@ More analytics‑focused work will be added soon.
 
 ---
 
+## 🧠 Learning Philosophy
+I believe in learning by building — focusing on real-world projects, clean architecture, and practical problem-solving rather than just certifications.
+
+---
+
 ## 📈 Profile Stats
  
 <!-- GitHub Stats Card -->
@@ -49,4 +65,3 @@ More analytics‑focused work will be added soon.
 
 ⭐ Thanks for visiting my profile!  
 Feel free to explore my repositories or connect if you’d like to collaborate or exchange ideas.
-``
