@@ -43,10 +43,16 @@ Alongside this, I actively maintain a **Frontend Projects Lab**, where I build a
 
 ## 📂 Projects
 
-- **Frontend Projects Lab** – a collection of deployed frontend projects showcasing UI development and GitHub Pages hosting  
+- **[Frontend Projects Lab](https://github.com/AryanHooda-04/frontend-projects-lab)** – a collection of deployed frontend projects showcasing UI development and GitHub Pages hosting  
+
+- **[SQL Data Warehouse Project](https://github.com/AryanHooda-04/sql-data-warehouse-project)** – an enterprise-style data warehouse and analytics project implementing Medallion Architecture (Bronze/Silver/Gold), ETL pipelines, star schema modeling, and BI-ready analytical layers for reporting and insights  
+
+- **[SQL Data Analytics Project](https://github.com/AryanHooda-04/sql-data-analytics-project)** – a structured SQL analytics repository focused on data cleaning, EDA, KPI analysis, business logic implementation, and advanced SQL techniques for real-world analytics use cases  
+
 - Ongoing and upcoming repositories focused on **data analysis, SQL, and Python**
 
-More analytics‑focused work will be added soon.
+More analytics-focused work will be added soon.
+
 
 ---
 
