@@ -69,5 +69,8 @@ I believe in learning by building — focusing on real-world projects, clean arc
 <!-- Top Languages Card -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanhooda-04&layout=compact&theme=dark" alt="Top Languages" />
 
+<!-- Profile Views Badge -->
+[![Profile Views](https://komarev.com/ghpvc/?username=AryanHooda-04&style=for-the-badge&color=blue)](https://github.com/AryanHooda-04)
+
 ⭐ Thanks for visiting my profile!  
 Feel free to explore my repositories or connect if you’d like to collaborate or exchange ideas.
